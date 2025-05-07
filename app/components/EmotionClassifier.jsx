@@ -175,7 +175,7 @@ export default function EmotionClassifier() {
           Emotion Explorer
         </h1>
         <p className="text-sm text-gray-500 dark:text-gray-400">
-          A beginner-friendly AI activity designed for Girls Who Code. Discover
+          A beginner-friendly AI activity. Discover
           how AI understands feelings, and let it tell you a story based on your
           mood.
         </p>
