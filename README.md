@@ -6,7 +6,7 @@ This is the **frontend application**, built with React and TailwindCSS. It conne
 
 ---
 
-## 🧠 Core Features
+## Core Features
 
 - 📝 Free-text emotional reflection
 - 📊 Emotion classification using NLP models (via API)
@@ -16,13 +16,13 @@ This is the **frontend application**, built with React and TailwindCSS. It conne
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 🔗 [Try the demo](https://emotion-explorer-frontend.vercel.app)
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 - React
 - TailwindCSS
