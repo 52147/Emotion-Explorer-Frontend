@@ -8,11 +8,10 @@ This is the **frontend application**, built with React and TailwindCSS. It conne
 
 ## Core Features
 
-- 📝 Free-text emotional reflection
-- 📊 Emotion classification using NLP models (via API)
-- 📈 Radar chart visualization of emotional distribution
-- 📚 AI-generated supportive stories based on user input
-- 💾 Local session display & suggestion prompts
+- Free-text emotional reflection
+- Emotion classification using NLP models (via API)
+- AI-generated supportive stories based on user input
+- Local session display & suggestion prompts
 
 ---
 
