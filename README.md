@@ -31,7 +31,7 @@ This is the **frontend application**, built with React and TailwindCSS. It conne
 
 ---
 
-## 🔧 Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/yourname/emotion-explorer-frontend.git
